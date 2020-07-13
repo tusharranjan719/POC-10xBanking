@@ -1,0 +1,1 @@
+insert into Product (product_key,product_name,product_version) values (105,'P5','1.4'),(106,'P6','1.2'),(101,'P1','1.5'),(102,'P2','2.2'),(103,'P3','1.2'),(104,'P4','1.8');
